@@ -9,7 +9,7 @@ time.sleep(1)
 print ("3")
 time.sleep(3)
 print ("goooo")
-os.system('pkg install python && install python3 && pkg install cmatrix && pkg install sl && cd painel-tll-1.0')
+os.system('pkg install python && install python3 && pkg install cmatrix && pkg install sl && cd painel-tll.py')
 print ('''Entendi, você quer o **Guia de Referência** definitivo com o comando `nano`. O `nano` é o editor de texto do Termux; é nele que você vai escrever o seu código antes de rodar.
 
 Aqui está o guia atualizado para você salvar e nunca mais esquecer.
